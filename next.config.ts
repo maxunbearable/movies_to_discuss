@@ -1,16 +1,11 @@
-// next.config.ts
-import { Redirect } from 'next';
-
 module.exports = {
     async redirects() {
-        const redirects: Redirect[] = [
+        return [
             {
-                source: '/first-post',
+                source: '/about',
                 destination: '/contact', // Redirect /about to /contact
                 permanent: true, // Set this to true for permanent redirects (HTTP 301)
             },
         ];
-
-        return redirects;
     },
 };
