@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c5f8c8a-1954-40ae-a2d0-cfb60c744a0e" name="Changes" comment="c" />
+    <list default="true" id="0c5f8c8a-1954-40ae-a2d0-cfb60c744a0e" name="Changes" comment="c">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="true" />
@@ -51,7 +53,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2UfY0W74dpSo8LzjZdTfIA9OasS" />
   <component name="ProjectLevelVcsManager">
@@ -151,6 +153,10 @@
       <workItem from="1693850283723" duration="600000" />
       <workItem from="1694023588008" duration="1556000" />
       <workItem from="1694110111659" duration="176000" />
+      <workItem from="1694197095321" duration="1017000" />
+      <workItem from="1694367450512" duration="1360000" />
+      <workItem from="1694540738116" duration="1726000" />
+      <workItem from="1694623372505" duration="128000" />
     </task>
     <servers />
   </component>
