@@ -1,8 +1,8 @@
 import { Injectable } from '@nestjs/common';
 
-interface Cat {
+export interface Cat {
   name: string;
-  age: string;
+  age: number;
   breed: string;
 }
 @Injectable()

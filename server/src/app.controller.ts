@@ -10,15 +10,4 @@ export class AppController {
   getHello(@Req() request: Request): string {
     return this.appService.getHello();
   }
-
-  @Post()
-  create() {
-    return 'This action adds a new cat';
-  }
-
-  @Get(':id')
-  findOne(@Param() params: any): string {
-    console.log(params.id);
-    return `This action returns a #${params.id} cat`;
-  }
 }
